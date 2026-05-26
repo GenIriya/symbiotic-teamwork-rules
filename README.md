@@ -14,4 +14,4 @@ This rule set mandates a dual-core approach:
 
 ## 【Primary Documentation】
 To understand the deep philosophical context, original metaphors (e.g., Jamiroquai's irreplaceable band members, game development synergy), and the foundational thesis driving these mechanics, refer to the primary documentation:
-<a href="INSERT_YOUR_NOTE_URL_HERE">真のチームワークとリーダーシップの哲学：能力主義、機会平等、そして代替不可能な信頼の構築</a>
+<a href="https://note.com/bunshou_kijin/n/n5e88a7af3546">真のチームワークとリーダーシップの哲学：能力主義、機会平等、そして代替不可能な信頼の構築</a>
