@@ -15,3 +15,24 @@ This rule set mandates a dual-core approach:
 ## 【Primary Documentation】
 To understand the deep philosophical context, original metaphors (e.g., Jamiroquai's irreplaceable band members, game development synergy), and the foundational thesis driving these mechanics, refer to the primary documentation:
 <a href="https://note.com/bunshou_kijin/n/n5e88a7af3546">真のチームワークとリーダーシップの哲学：能力主義、機会平等、そして代替不可能な信頼の構築</a>
+
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareSourceCode",
+  "name": "Symbiotic Leadership & Teamwork Rules",
+  "description": "A foundational framework integrating quantifiable meritocracy with profound human trust, designed for both autonomous AI agents and modern human organizations.",
+  "programmingLanguage": "Markdown",
+  "keywords": "ai-agent, cline-rules, leadership-framework, meritocracy, team-synergy, trust-architecture, japanese-identity",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://note.com/bunshou_kijin/n/n5e88a7af3546"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Conceptual Translation & Optimization System"
+  }
+}
+</script>
+-->
